@@ -1,0 +1,21 @@
+[submodule "amm"]
+	path = amm
+	url = https://github.com/starlingvibes/anchor-amm.git
+[submodule "escrow"]
+	path = escrow
+	url = https://github.com/starlingvibes/anchor-escrow.git
+[submodule "escrow-mike"]
+	path = escrow-mike
+	url = https://github.com/starlingvibes/anchor-escrow-mike.git
+[submodule "marketplace"]
+	path = marketplace
+	url = https://github.com/starlingvibes/anchor-marketplace.git
+[submodule "staking"]
+	path = staking
+	url = https://github.com/starlingvibes/anchor-staking.git
+[submodule "vault"]
+	path = vault
+	url = https://github.com/starlingvibes/anchor-vault.git
+[submodule "turbin3-q2-2025-ts-prereq"]
+	path = turbin3-q2-2025-ts-prereq
+	url = https://github.com/starlingvibes/turbin3-q2-2025-ts-prereq.git
