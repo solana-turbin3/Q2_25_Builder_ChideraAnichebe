@@ -19,3 +19,6 @@
 [submodule "turbin3-q2-2025-ts-prereq"]
 	path = turbin3-q2-2025-ts-prereq
 	url = https://github.com/starlingvibes/turbin3-q2-2025-ts-prereq.git
+[submodule "soundmint"]
+	path = soundmint
+	url = https://github.com/starlingvibes/soundmint.git
